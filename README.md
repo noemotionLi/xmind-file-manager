@@ -15,6 +15,7 @@ Windows 自带的文件管理系统看起来比较累，如果用思维导图则
 ## demo
 
 自动生成的xmind文件展示，以xmind包的目录为例
+![demo](https://github.com/noemotionLi/xmind-file-manager/blob/main/demo/xmind.svg)
 
 # 版权声明
 
