@@ -78,7 +78,7 @@ def change_node_name(string, is_open = False):
         return string
 
 if __name__ == '__main__':
-    gen_my_xmind_file(r'C:\Users\10291\Desktop\疫情防控')
+    gen_my_xmind_file(r'C:\') # 在这里输入你的地址
 
 
 
